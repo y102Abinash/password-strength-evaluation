@@ -28,7 +28,7 @@ In this project, we use:
 ### Step 1: Update Package List
 ```bash
 sudo apt update
-
-### Step 2: Install cracklib-check
-```bash
 sudo apt install libcrack2 cracklib-runtime -y
+
+
+
